@@ -1,5 +1,5 @@
 const container = document.querySelector('.container');
-const URL = "https://avatars.dicebear.com/api/male/1.svg";
+const URL = "https://api.dicebear.com/9.x/pixel-art/svg?seed=";
 var count =0;
 
 /*
